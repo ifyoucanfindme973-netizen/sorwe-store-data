@@ -12,17 +12,3 @@
     "changelog": "Initial release",
     "developer": "Jasan Inc"
   },
-  {
-    "id": "2",
-    "name": "Orion Store",
-    "description": "Official Orion Store Android application.",
-    "version": "1.2.1",
-    "size": "Unknown",
-    "category": "Tools",
-    "icon": "https://via.placeholder.com/150",
-    "downloadUrl": "https://github.com/RookieEnough/Orion-Store/releases/download/1.2.1/app-release.apk",
-    "screenshots": [],
-    "changelog": "Version 1.2.1 improvements and fixes.",
-    "developer": "RookieEnough"
-  }
-]
