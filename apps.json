@@ -1,15 +1,13 @@
-[
-  {
-    "id": "1",
-    "name": "Jasan Auction",
-    "description": "Official Jasan Auction app",
-    "version": "1.0.0",
-    "size": "15MB",
-    "category": "Business",
-    "icon": "https://via.placeholder.com/150",
-    "screenshots": [],
-    "download_url": "https://example.com/jasan.apk",
-    "changelog": "Initial release",
-    "developer": "Jasan Team"
-  }
-]
+{
+  "id": "1",
+  "name": "Orion Store",
+  "description": "Official Orion Store Android application.",
+  "version": "1.2.1",
+  "size": "Unknown",
+  "category": "Tools",
+  "icon": "https://via.placeholder.com/150",
+  "downloadUrl": "https://github.com/RookieEnough/Orion-Store/releases/download/1.2.1/app-release.apk",
+  "screenshots": [],
+  "changelog": "Version 1.2.1 improvements and fixes.",
+  "developer": "RookieEnough"
+}
