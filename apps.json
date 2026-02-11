@@ -24,5 +24,18 @@
     "screenshots": [],
     "changelog": "Latest F-Droid release.",
     "developer": "Aurora OSS"
+  },
+  {
+    "id": "3",
+    "name": "mpvEx",
+    "description": "Lightweight and powerful media player based on mpv.",
+    "version": "1.2.7",
+    "size": "Unknown",
+    "category": "Video Players",
+    "icon": "https://raw.githubusercontent.com/mpv-android/mpv-android/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+    "downloadUrl": "https://github.com/marlboro-advance/mpvEx/releases/download/v1.2.7/mpvEx-arm64-v8a-v1.2.7.apk",
+    "screenshots": [],
+    "changelog": "Version 1.2.7 release.",
+    "developer": "marlboro-advance"
   }
 ]
