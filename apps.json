@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1",
+    "name": "Jasan Auction",
+    "description": "Official Jasan Auction app",
+    "category": "Business",
+    "iconUrl": "https://via.placeholder.com/150",
+    "apkUrl": "https://example.com/jasan.apk",
+    "version": "1.0.0"
+  }
+]
