@@ -3,9 +3,13 @@
     "id": "1",
     "name": "Jasan Auction",
     "description": "Official Jasan Auction app",
+    "version": "1.0.0",
+    "size": "15MB",
     "category": "Business",
-    "iconUrl": "https://via.placeholder.com/150",
-    "apkUrl": "https://example.com/jasan.apk",
-    "version": "1.0.0"
+    "icon": "https://via.placeholder.com/150",
+    "screenshots": [],
+    "download_url": "https://example.com/jasan.apk",
+    "changelog": "Initial release",
+    "developer": "Jasan Team"
   }
 ]
