@@ -1,7 +1,14 @@
 [
   {
     "id": "mpvex",
+    "type": "github",
     "githubRepo": "marlboro-advance/mpvEx",
+    "icon": "https://apt.izzysoft.de/fdroid/repo/app.marlboroadvance.mpvex/en-US/icon.png",
+    "screenshots": [
+      "https://apt.izzysoft.de/fdroid/repo/app.marlboroadvance.mpvex/en-US/phoneScreenshots/about.png",
+      "https://apt.izzysoft.de/fdroid/repo/app.marlboroadvance.mpvex/en-US/phoneScreenshots/folderscreen.png",
+      "https://apt.izzysoft.de/fdroid/repo/app.marlboroadvance.mpvex/en-US/phoneScreenshots/framenavigation.png"
+    ],
     "featured": true
   }
 ]
