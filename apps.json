@@ -1,55 +1,18 @@
 [
   {
     "id": "1",
-    "name": "Jasan Auction",
-    "description": "Official Jasan Auction app",
-    "version": "1.0.0",
-    "size": "15 MB",
-    "category": "Business",
-    "icon": "https://via.placeholder.com/150",
-    "downloadUrl": "https://example.com/jasan.apk",
-    "screenshots": [],
-    "changelog": "Initial release",
-    "developer": "Jasan Inc"
-  },
-  {
-    "id": "2",
     "name": "Aurora Store",
-    "description": "Unofficial open-source Google Play client.",
-    "version": "72",
-    "size": "Unknown",
+    "description": "Open-source Play Store alternative.",
+    "version": "4.4.0",
+    "size": "45 MB",
     "category": "Tools",
-    "icon": "https://f-droid.org/repo/com.aurora.store.png",
+    "icon": "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/main/icons/aurora.png",
     "downloadUrl": "https://f-droid.org/repo/com.aurora.store_72.apk",
-    "screenshots": [],
-    "changelog": "Latest F-Droid release.",
+    "screenshots": [
+      "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/main/screenshots/aurora_1.png"
+    ],
+    "changelog": "Bug fixes and improvements.",
     "developer": "Aurora OSS"
-  },
-  {
-    "id": "3",
-    "name": "mpvEx",
-    "description": "Lightweight and powerful media player based on mpv.",
-    "version": "1.2.7",
-    "size": "Unknown",
-    "category": "Video Players",
-    "icon": "https://via.placeholder.com/150",
-    "downloadUrl": "https://github.com/marlboro-advance/mpvEx/releases/download/v1.2.7/mpvEx-arm64-v8a-v1.2.7.apk",
-    "screenshots": [],
-    "changelog": "Version 1.2.7 release.",
-    "developer": "marlboro-advance"
-  },
-  {
-    "id": "4",
-    "name": "MovieBox",
-    "description": "free moves",
-    "version": "3.1",
-    "size": "Unknown",
-    "category": "Entertainment",
-    "icon": "https://via.placeholder.com/150",
-    "downloadUrl": "https://dl.moviesbox.com.co/moviebox-v3.1-moviesbox.com.co-official.apk",
-    "screenshots": [],
-    "changelog": "Latest official release.",
-    "developer": "MoviesBox"
   }
 ]
 
