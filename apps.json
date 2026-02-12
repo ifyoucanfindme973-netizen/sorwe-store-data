@@ -1,18 +1,13 @@
-[
-  {
-    "id": "1",
-    "name": "Aurora Store",
-    "description": "Open-source Play Store alternative.",
-    "version": "4.4.0",
-    "size": "45 MB",
-    "category": "Tools",
-    "icon": "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/main/icons/aurora.png",
-    "downloadUrl": "https://f-droid.org/repo/com.aurora.store_72.apk",
-    "screenshots": [
-      "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/main/screenshots/aurora_1.png"
-    ],
-    "changelog": "Bug fixes and improvements.",
-    "developer": "Aurora OSS"
-  }
-]
-
+{
+  "id": "1",
+  "name": "Aurora Store",
+  "description": "Open-source alternative to Google Play Store.",
+  "version": "4.x",
+  "size": "Varies",
+  "category": "Tools",
+  "icon": "https://f-droid.org/repo/com.aurora.store/en-US/icon_tbAhwq51NNd0liZcTg0cQNNvazxrWlj7bPCe_1TkCV8=.png",
+  "downloadUrl": "https://f-droid.org/repo/com.aurora.store_72.apk",
+  "screenshots": [],
+  "changelog": "Latest F-Droid release",
+  "developer": "Aurora OSS"
+}
