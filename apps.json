@@ -1,30 +1,14 @@
 [
   {
-    "id": "1",
-    "name": "Aurora Store",
-    "description": "Open-source alternative to Google Play Store.",
-    "version": "4.x",
-    "size": "Varies",
-    "category": "Tools",
-    "icon": "https://f-droid.org/repo/com.aurora.store/en-US/icon_tbAhwq51NNd0liZcTg0cQNNvazxrWlj7bPCe_1TkCV8=.png",
-    "downloadUrl": "https://f-droid.org/repo/com.aurora.store_72.apk",
-    "screenshots": [],
-    "changelog": "Latest F-Droid release",
-    "developer": "Aurora OSS"
+    "id": "aurora-store",
+    "type": "fdroid",
+    "packageName": "com.aurora.store",
+    "featured": true
   },
   {
     "id": "mpvex",
-    "name": "mpvEx",
-    "description": "Advanced mpv-based video player with extended features.",
-    "version": "1.2.7",
-    "size": "Varies",
-    "category": "Video Player",
-    "icon": "https://apt.izzysoft.de/fdroid/repo/app.marlboroadvance.mpvex/en-US/icon.png",
-    "downloadUrl": "https://apt.izzysoft.de/fdroid/repo/app.marlboroadvance.mpvex_1272.apk",
-    "screenshots": [
-      "https://apt.izzysoft.de/fdroid/repo/app.marlboroadvance.mpvex/en-US/phoneScreenshots/framenavigation.png"
-    ],
-    "changelog": "Latest stable release.",
-    "developer": "Marlboro Advance"
+    "type": "github",
+    "githubRepo": "nicegamer7/mpvEx",
+    "featured": false
   }
 ]
