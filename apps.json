@@ -1,14 +1,7 @@
 [
   {
-    "id": "aurora-store",
-    "type": "fdroid",
-    "packageName": "com.aurora.store",
-    "featured": true
-  },
-  {
     "id": "mpvex",
-    "type": "github",
     "githubRepo": "marlboro-advance/mpvEx",
-    "featured": false
+    "featured": true
   }
 ]
