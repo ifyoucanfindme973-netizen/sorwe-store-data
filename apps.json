@@ -3,11 +3,11 @@
     "id": "mpvex",
     "type": "github",
     "githubRepo": "marlboro-advance/mpvEx",
-    "icon": "https://apt.izzysoft.de/fdroid/repo/app.marlboroadvance.mpvex/en-US/icon.png",
+    "icon": "icons/mpvex.png",
     "screenshots": [
-      "https://apt.izzysoft.de/fdroid/repo/app.marlboroadvance.mpvex/en-US/phoneScreenshots/about.png",
-      "https://apt.izzysoft.de/fdroid/repo/app.marlboroadvance.mpvex/en-US/phoneScreenshots/folderscreen.png",
-      "https://apt.izzysoft.de/fdroid/repo/app.marlboroadvance.mpvex/en-US/phoneScreenshots/framenavigation.png"
+      "screenshots/mpvex/about.png",
+      "screenshots/mpvex/folderscreen.png",
+      "screenshots/mpvex/framenavigation.png"
     ],
     "featured": true
   }
