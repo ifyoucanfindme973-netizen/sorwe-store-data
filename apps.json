@@ -3,11 +3,11 @@
     "id": "mpvex",
     "type": "github",
     "githubRepo": "marlboro-advance/mpvEx",
-    "icon": "icons/mpvex.png",
+    "icon": "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/main/icons/mpvex.png",
     "screenshots": [
-      "screenshots/mpvex/about.png",
-      "screenshots/mpvex/folderscreen.png",
-      "screenshots/mpvex/framenavigation.png"
+      "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/main/screenshots/mpvex/about.png",
+      "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/main/screenshots/mpvex/folderscreen.png",
+      "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/main/screenshots/mpvex/framenavigation.png"
     ],
     "featured": true
   }
