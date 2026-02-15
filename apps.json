@@ -62,5 +62,21 @@
   ],
 
   "featured": false
+ },
+ {
+  "id": "google-photos",
+  "type": "direct",
+  "name": "Google Photos",
+  "description": "Google Photos is a powerful cloud-based gallery app that lets you back up, organize, and manage your photos and videos. This version provides enhanced storage features, smooth syncing, smart search, automatic organization, and seamless media sharing.",
+
+  "downloadUrl": "https://github.com/vancedto/vanced.to/releases/download/2026-7/vanced.to_vanced_google_photos_arm64_v8a_v7.59.0.855402494_cli5.0.2.2_p5.48.0.9.apk",
+
+  "icon": "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/icons/GooglePhotos.png",
+
+  "screenshots": [
+    "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/GooglePhotos/Screenshot_20260215_213405.jpg"
+  ],
+
+  "featured": false
  }
 ]
