@@ -10,5 +10,17 @@
       "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/main/screenshots/mpvex/framenavigation.png"
     ],
     "featured": true
+  },
+  {
+    "id": "revanced-youtube-morphe",
+    "type": "github",
+    "githubRepo": "RookieEnough/Revanced-AutoBuilds",
+    "icon": "PUT_ICON_LINK_HERE",
+    "screenshots": [
+      "PUT_SCREENSHOT_1",
+      "PUT_SCREENSHOT_2",
+      "PUT_SCREENSHOT_3"
+    ],
+    "featured": false
   }
 ]
