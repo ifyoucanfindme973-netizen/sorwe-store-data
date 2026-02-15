@@ -28,5 +28,23 @@
   ],
 
   "featured": false
+},
+{
+  "id": "microg",
+  "type": "direct",
+  "name": "MicroG",
+  "description": "MicroG is a lightweight open-source implementation of Google Play Services that allows apps requiring Google services to run without the official Google framework. It enables account login support and push notifications while maintaining better privacy and performance.",
+
+  "downloadUrl": "https://github.com/vancedto/vanced.to/releases/download/2026-7/vanced.to_vanced_gms_microg_v0.3.1.4.240913.apk",
+
+  "icon": "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/icons/MicroG.jpg",
+
+  "screenshots": [
+    "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/MicroG/Screenshot_20260215_195959.jpg",
+    "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/MicroG/Screenshot_20260215_200003.jpg",
+    "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/MicroG/Screenshot_20260215_200108.jpg"
+  ],
+
+  "featured": false
 }
-]
+
