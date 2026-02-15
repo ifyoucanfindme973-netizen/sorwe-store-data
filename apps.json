@@ -10,20 +10,4 @@
       "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/main/screenshots/mpvex/framenavigation.png"
     ],
     "featured": true
-  },
-  {
-    "id": "revanced-youtube-morphe",
-    "type": "github",
-    "githubRepo": "RookieEnough/Revanced-AutoBuilds",
-    "name": "YouTube Premium",
-    "description": "Enhanced YouTube experience with ad blocking, background playback, sponsor skip, and premium-style features for uninterrupted viewing.",
-    "icon": "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/icons/YouTube.jpg",
-    "screenshots": [
-      "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/YouTube/Screenshot%202026-02-14%20192524.png",
-      "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/YouTube/Screenshot%202026-02-14%20192632.png",
-      "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/YouTube/Screenshot%202026-02-14%20192638.png",
-      "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/YouTube/Screenshot%202026-02-14%20192646.png"
-    ],
-    "featured": false
   }
-]
