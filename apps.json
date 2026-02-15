@@ -39,5 +39,28 @@
       "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/MicroG/Screenshot_20260215_200108.jpg"
     ],
     "featured": false
-  }
+  },
+  {
+  "id": "capcut",
+  "type": "direct",
+  "name": "CapCut",
+  "description": "CapCut is a powerful all-in-one video editing application that allows you to create professional-quality videos with ease. It includes advanced tools like multi-layer editing, transitions, effects, filters, text animations, background removal, and high-resolution export. Perfect for content creators, social media editors, and short-form video production.",
+
+  "downloadUrl": "https://files.an1.net/capcut_16.8.0-an1.com.apk",
+
+  "icon": "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/icons/CapCut.png",
+
+  "screenshots": [
+    "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/CapCut/Screenshot_20260215_160427.jpg",
+    "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/CapCut/Screenshot_20260215_160429.jpg",
+    "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/CapCut/Screenshot_20260215_160435.jpg",
+    "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/CapCut/Screenshot_20260215_160439.jpg",
+    "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/CapCut/Screenshot_20260215_160440.jpg",
+    "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/CapCut/Screenshot_20260215_160445.jpg",
+    "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/CapCut/Screenshot_20260215_160446.jpg",
+    "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/CapCut/Screenshot_20260215_160448.jpg"
+  ],
+
+  "featured": false
+}
 ]
