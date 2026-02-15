@@ -12,16 +12,21 @@
     "featured": true
   },
   {
-    "id": "revanced-youtube-morphe",
-    "type": "github",
-    "githubRepo": "RookieEnough/Revanced-AutoBuilds",
-    "icon": "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/icons/YouTube.jpg",
-    "screenshots": [
-      "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/YouTube/Screenshot%202026-02-14%20192524.png",
-      "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/YouTube/Screenshot%202026-02-14%20192632.png",
-      "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/YouTube/Screenshot%202026-02-14%20192638.png",
-      "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/YouTube/Screenshot%202026-02-14%20192646.png"
-    ],
-    "featured": false
-  }
+  "id": "revanced-youtube-morphe",
+  "type": "github",
+  "githubRepo": "RookieEnough/Revanced-AutoBuilds",
+  "icon": "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/icons/YouTube.jpg",
+
+  "customName": "YouTube Premium",
+  "customDescription": "Enjoy an enhanced YouTube experience with ad-free streaming, background playback, picture-in-picture mode, and additional premium features. Optimized for smooth performance and regular updates.",
+
+  "screenshots": [
+    "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/YouTube/Screenshot%202026-02-14%20192524.png",
+    "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/YouTube/Screenshot%202026-02-14%20192632.png",
+    "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/YouTube/Screenshot%202026-02-14%20192638.png",
+    "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/YouTube/Screenshot%202026-02-14%20192646.png"
+  ],
+
+  "featured": false
+}
 ]
