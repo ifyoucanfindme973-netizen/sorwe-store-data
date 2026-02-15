@@ -24,4 +24,18 @@
     ],
     "featured": false
   }
+],
+[
+  {
+    "id": "1",
+    "type": "",
+    "githubRepo": "",
+    "icon": "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/main/icons/mpvex.png",
+    "screenshots": [
+      "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/main/screenshots/mpvex/about.png",
+      "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/main/screenshots/mpvex/folderscreen.png",
+      "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/main/screenshots/mpvex/framenavigation.png"
+    ],
+    "featured": true
+  }
 ]
