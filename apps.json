@@ -78,5 +78,20 @@
   ],
 
   "featured": false
+ },
+ {
+  "id": "remini-pro",
+  "type": "direct",
+  "name": "Remini Pro",
+  "description": "Remini Pro is an advanced AI-powered photo enhancement application designed to restore, sharpen, and upscale low-quality images into stunning high-definition results. Using cutting-edge artificial intelligence technology, it enhances facial details, removes blur, improves old photos, restores damaged pictures, and upgrades images to professional-level clarity. Ideal for photographers, social media users, and anyone who wants to transform blurry or old photos into crystal-clear masterpieces.",
+
+  "downloadUrl": "https://modqn.one/remini-premium_v3.7.1270.202519305-an1.ca.apk",
+
+  "icon": "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/icons/Remini.jpg",
+
+  "screenshots": [
+    "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/Remini/Screenshot.jpg",
+    "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/Remini/Screenshot_20260216_091545.jpg"
+  ]
  }
 ]
