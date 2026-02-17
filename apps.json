@@ -1,5 +1,1 @@
-{"apps": [
-  {"name": "WhatsApp", "platform": "Android"},
-  {"name": "Telegram", "platform": "Android"},
-  {"name": "Signal", "platform": "Android"}
-]}
+["App1","App2","App3",...];
