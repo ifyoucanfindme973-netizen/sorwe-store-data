@@ -11051,5 +11051,29 @@
       "https://raw.githubusercontent.com/skhub-tech/mussifly/main/public/screenshot-right.jpg"
     ],
     "releaseKeyword": "apk"
-  }
+  },
+  {
+  "id": "cricfy",
+  "name": "CricFY",
+  "description": "CricFY is a free live streaming application designed for cricket fans and sports lovers. It provides access to live cricket matches, international tournaments, T20 leagues, and other major sporting events in high-quality streaming. The app offers smooth playback, multiple streaming links, live scores, match schedules, and sports highlights. Perfect for users who want to watch cricket and other sports anytime, anywhere without subscription fees.",
+  "icon": "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/icons/CRICFy%20TV.png",
+  "version": "",
+  "latestVersion": "",
+  "downloadUrl": "https://apk.cricfys.one/cricfy/CRICFy_v6.0.apk",
+  "repoUrl": "",
+  "githubRepo": "",
+  "releaseKeyword": "",
+  "packageName": "",
+  "category": "Sports",
+  "platform": "Android",
+  "size": "",
+  "author": "",
+  "screenshots": [
+    "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/CRICFY%20TV/Screenshot_20260216_131451.jpg",
+    "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/CRICFY%20TV/Screenshot_20260216_131455.jpg",
+    "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/CRICFY%20TV/Screenshot_20260216_131459.jpg",
+    "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/CRICFY%20TV/Screenshot_20260216_131505.jpg"
+  ],
+  "releaseKeyword": "apk"  
+ }
 ]
