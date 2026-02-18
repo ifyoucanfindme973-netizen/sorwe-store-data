@@ -11075,5 +11075,50 @@
     "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/CRICFY%20TV/Screenshot_20260216_131505.jpg"
   ],
   "releaseKeyword": "apk"  
+ },
+ {
+  "id": "microg",
+  "name": "MicroG",
+  "description": "MicroG is a lightweight open-source implementation of Google Play Services that allows apps requiring Google services to run without the official Google framework. It enables account login support and push notifications while maintaining better privacy and performance.",
+  "icon": "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/icons/MicroG.jpg",
+  "version": "",
+  "latestVersion": "",
+  "downloadUrl": "https://github.com/vancedto/vanced.to/releases/download/2026-7/vanced.to_vanced_gms_microg_v0.3.1.4.240913.apk",
+  "repoUrl": "",
+  "githubRepo": "",
+  "releaseKeyword": "",
+  "packageName": "",
+  "category": "Tools",
+  "platform": "Android",
+  "size": "",
+  "author": "",
+  "screenshots": [
+    "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/MicroG/Screenshot_20260215_195959.jpg",
+    "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/MicroG/Screenshot_20260215_200003.jpg",
+    "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/MicroG/Screenshot_20260215_200108.jpg"
+  ],
+  "releaseKeyword": "apk" 
+ },
+  {
+  "id": "remini-pro",
+  "name": "Remini Pro",
+  "description": "Remini Pro is an advanced AI-powered photo enhancement application designed to restore, sharpen, and upscale low-quality images into stunning high-definition results. Using cutting-edge artificial intelligence technology, it enhances facial details, removes blur, improves old photos, restores damaged pictures, and upgrades images to professional-level clarity. Ideal for photographers, social media users, and anyone who wants to transform blurry or old photos into crystal-clear masterpieces.",
+  "icon": "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/icons/Remini.jpg",
+  "version": "",
+  "latestVersion": "",
+  "downloadUrl": "https://modqn.one/remini-premium_v3.7.1270.202519305-an1.ca.apk",
+  "repoUrl": "",
+  "githubRepo": "",
+  "releaseKeyword": "",
+  "packageName": "",
+  "category": "Photography",
+  "platform": "Android",
+  "size": "",
+  "author": "",
+  "screenshots": [
+    "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/Remini/Screenshot.jpg",
+    "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/Remini/Screenshot_20260216_091545.jpg"
+  ],
+  "releaseKeyword": "apk"   
  }
 ]
