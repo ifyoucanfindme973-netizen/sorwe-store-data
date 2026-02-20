@@ -11173,5 +11173,33 @@
     "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/Remini/Screenshot_20260216_091545.jpg"
   ],
   "releaseKeyword": "apk"   
- }
+ },
+ {
+  "id": "capcut-premium",
+  "name": "CapCut Premium",
+  "description": "CapCut Premium is a powerful all-in-one video editing app that takes your creativity to the next level. With advanced tools like multi-layer editing, high-quality filters, smooth slow-motion, AI background removal, transitions, and custom effects, you can create stunning videos right from your Android device. This premium version unlocks exclusive features, removes watermarks, and lets you export in high resolution. Perfect for content creators, vloggers, and anyone who wants professional-quality videos with ease.",
+  "icon": "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/icons/CapCut.png",
+  "version": "16.9.0",
+  "latestVersion": "16.9.0",
+  "downloadUrl": "https://files.an1.net/capcut_16.9.0-an1.com.apk",
+  "repoUrl": "",
+  "githubRepo": "",
+    "releaseKeyword": "",
+  "packageName": "com.lemon.lvoverseas",
+  "category": "Video Editing",
+  "platform": "Android",
+  "size": "",
+  "author": "Bytedance Pte. Ltd.",
+  "screenshots": [
+    "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/CapCut/Screenshot_20260215_160427.jpg",
+    "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/CapCut/Screenshot_20260215_160429.jpg",
+    "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/CapCut/Screenshot_20260215_160435.jpg",
+    "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/CapCut/Screenshot_20260215_160439.jpg",
+    "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/CapCut/Screenshot_20260215_160440.jpg",
+    "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/CapCut/Screenshot_20260215_160445.jpg",
+    "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/CapCut/Screenshot_20260215_160446.jpg",
+    "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/CapCut/Screenshot_20260215_160448.jpg"
+  ],
+   "releaseKeyword": "apk" 
+ } 
 ]
