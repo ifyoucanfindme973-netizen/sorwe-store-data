@@ -11201,5 +11201,30 @@
     "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/CapCut/Screenshot_20260215_160448.jpg"
   ],
    "releaseKeyword": "apk" 
+ },
+ {
+  "id": "crunchyroll-universal-mod",
+  "name": "Crunchyroll Universal",
+  "description": "Crunchyroll Universal is an enhanced build based on the original Crunchyroll app that offers a range of features for anime fans. With support for browsing a large library of shows, video playback options, and a familiar UI, this build aims to deliver a seamless anime watching experience. Features and behavior may differ from the official Crunchyroll application.",
+  "icon": "https://play-lh.googleusercontent.com/Fnor8mzNEsiWTfSTI_RXUmsaZW0eYw0RkIgIhSCphG4Y0ZgwC-zK2qzik-9VIxQDWQ=s48-rw",
+  "version": "3.99.3",
+  "latestVersion": "3.99.3",
+  "downloadUrl": "https://github.com/RookieEnough/Revanced-AutoBuilds/releases/download/latest/crunchyroll-universal-revanced-v3.99.3.apk",
+  "repoUrl": "https://github.com/RookieEnough/Revanced-AutoBuilds",
+  "githubRepo": "https://github.com/RookieEnough/Revanced-AutoBuilds",
+  "releaseKeyword": "",
+  "packageName": "",
+  "category": "Entertainment",
+  "platform": "Android",
+  "size": "",
+  "author": "",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/mc85mHwZt5indv2qNq5IJwv-D34WOlvljyfdbjGvIyurwYssXxyI2B9IXuINnQDTKNETU6MsyhoZs8lV9nUsZg=w526-h296-rw",
+    "https://play-lh.googleusercontent.com/jzOWAnp9G3r1NpHHkAcWiGIXT5c74o7ZezQ6u2bEb3xde4DhJab97L1o37LZbny_m3BPsQ2-5FW-JRFYqKaY=w526-h296-rw",
+    "https://play-lh.googleusercontent.com/iw_2fAYDhCVRL40CyU3K02JV1QsSFEwf5RmuVX14kfamKxBZ4iuUYj5qwDWL4NndKMh7l34s6QXIOLDml5lO=w526-h296-rw",
+    "https://play-lh.googleusercontent.com/Ew40HvHQaFQF6_hmA0wi9NofNWXTGXK2_koX2LtoaxYmOQ0AEGyMhOaEFmkoqLyxivWIsz5n4La6cE767OanT7o=w526-h296-rw",
+    "https://play-lh.googleusercontent.com/0G1H3owL7Zwpgx4RQnf9akjYfUfcI2f3CZYD45q8gaz9b_S2tGpw43gCNtHmG4ymIRnmGRMRj7nl40jUuAhoPA=w526-h296-rw"
+  ],
+  "releaseKeyword": "apk" 
  } 
 ]
