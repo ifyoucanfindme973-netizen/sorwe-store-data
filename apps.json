@@ -12338,5 +12338,27 @@
     "https://play-lh.googleusercontent.com/0G1H3owL7Zwpgx4RQnf9akjYfUfcI2f3CZYD45q8gaz9b_S2tGpw43gCNtHmG4ymIRnmGRMRj7nl40jUuAhoPA=w526-h296-rw"
   ],
   "releaseKeyword": "apk" 
- } 
+ },
+  {
+  "id": "sarthak",
+  "name": "Sarthak",
+  "description": "Sarthak is a smart attendance management app designed for students and staff in Madhya Pradesh. It helps users track daily attendance, monitor records, and stay updated with institutional requirements. The app provides an easy-to-use interface, quick access to attendance status, and reliable performance for everyday academic use.",
+  "icon": "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/icons/Screenshot_20260226_133653.jpg",
+  "version": "",
+  "latestVersion": "",
+  "downloadUrl": "https://download1351.mediafire.com/cmf2x5i39h8gOimDcFPIG5iyNZCXf1S7DPRFQ_Jl6-gD24rbEG2X4svedHgdJbvv3numBIhlcBqc2Eg9Hoi9iRHzitNimq8K8kF4OQOefsUMO8sPIL0sRGieYK6jk_H-MLW_aik8OM8-b7q3E4st-qiy8-_Iw22u94T2BFhusCXkfw/4bkm8s3klt37jzd/base.apk",
+  "repoUrl": "",
+  "githubRepo": "",
+  "releaseKeyword": "apk",
+  "packageName": "",
+  "category": "Education",
+  "platform": "Android",
+  "size": "",
+  "author": "",
+  "screenshots": [
+    "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/Screenshot_20260226_132956.jpg",
+    "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/Screenshot_20260226_133043.jpg"
+  ],
+  "releaseKeyword": "apk" 
+  }   
 ]
