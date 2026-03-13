@@ -112,7 +112,7 @@
     "repoUrl": "https://github.com/RookieEnough/Morphe-AutoBuilds",
     "githubRepo": "RookieEnough/Morphe-AutoBuilds",
     "releaseKeyword": "photos",
-    "packageName": "app.morphe.android.photos",
+    "packageName": "app.morphe.android.apps.photos",
     "category": "Utility",
     "platform": "Android",
     "size": "Varies",
@@ -12056,7 +12056,7 @@
       "https://play-lh.googleusercontent.com/7aqcyBA_BFETr8ax5j_vY1NhuOQeSuBkTzpgZdakYztzku56e9nA8VcOSKEQfjsOorWp1v-WJpoTcQNYPN8QmA=w526-h296-rw",
       "https://play-lh.googleusercontent.com/eNHA0jXVtx6ir60G6P2jnuoI4WyllRoowUVELuO-L2LPoMGVOjjXJnWsH_thyt3fEwa1jQtJGEPGJI88dWYv8A=w526-h296-rw"
     ],
-    "releaseKeyword": "material"
+    "releaseKeyword": "number"
   },
   {
     "id": "focusgram",
@@ -13198,31 +13198,6 @@
     "releaseKeyword": "APK"
   },
   {
-    "id": "opencontacts",
-    "name": "OpenContacts",
-    "description": "OpenContacts saves your contacts in its own database seperate from Android. This way no other app, such as WhatsApp, can access your contacts. You can use it in place of your default Phone (dialer) app.\n\nFeel free to import or export contacts from your native Android Contacts app. And yes, with the required permission, it will show you the caller ID as well.",
-    "icon": "https://gitlab.com/sultanahamer/OpenContacts/-/raw/master/app/src/main/res/mipmap-mdpi/launcher_icon.png",
-    "version": "Latest",
-    "latestVersion": "Latest",
-    "downloadUrl": "#",
-    "repoUrl": "https://gitlab.com/sultanahamer/OpenContacts",
-    "githubRepo": "",
-    "gitlabRepo": "sultanahamer/OpenContacts",
-    "gitlabDomain": "gitlab.com",
-    "packageName": "opencontacts.open.com.opencontacts",
-    "category": "Privacy",
-    "platform": "Android",
-    "size": "Varies",
-    "author": "sultanahamer",
-    "officialSite": "",
-    "screenshots": [
-      "https://gitlab.com/sultanahamer/OpenContacts/-/raw/master/screenshots/1-Call-log.png",
-      "https://gitlab.com/sultanahamer/OpenContacts/-/raw/master/screenshots/2-Editcontact.png",
-      "https://gitlab.com/sultanahamer/OpenContacts/-/raw/master/screenshots/3-Preferences.png"
-    ],
-    "releaseKeyword": "APK"
-  },
-  {
     "id": "rpcsx-ui",
     "name": "rpcsx-ui",
     "description": "An experimental Android native UI for RPCSX emulator",
@@ -13295,6 +13270,211 @@
       "https://raw.githubusercontent.com/UmerCodez/DroidPad/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png"
     ]
   },
+  {
+    "id": "treble-info",
+    "name": "Treble info",
+    "description": "Helps you check Project Treble, A/B and Architecture for GSI installation.\n\nThis application allows you to check the Treble GSI requirements and determine the correct GSI type for your device.\n\nKey features:\n* Check Treble support status\n* Check Treble/VNDK version\n* Check system architecture\n* Check A-Only or A/B status\n* Check for binder64\n* Check for System-as-Root\n* Does not require root access\n* Supports dark theme and uses Material Design 3",
+    "icon": "https://gitlab.com/TrebleInfo/TrebleInfo/-/raw/dev/fastlane/metadata/android/en-US/images/icon.png",
+    "version": "Latest",
+    "latestVersion": "Latest",
+    "downloadUrl": "#",
+    "repoUrl": "https://gitlab.com/TrebleInfo/TrebleInfo",
+    "githubRepo": "",
+    "gitlabRepo": "TrebleInfo/TrebleInfo",
+    "gitlabDomain": "gitlab.com",
+    "packageName": "tk.hack5.treblecheck",
+    "category": "Utility",
+    "platform": "Android",
+    "size": "Varies",
+    "author": "Hackintosh Five",
+    "officialSite": "",
+    "screenshots": [
+      "https://gitlab.com/TrebleInfo/TrebleInfo/-/raw/dev/fastlane/metadata/android/en-US/images/phoneScreenshots/true-64-64-true-true-false-false-false-33-0-false-0.png",
+      "https://gitlab.com/TrebleInfo/TrebleInfo/-/raw/dev/fastlane/metadata/android/en-US/images/phoneScreenshots/true-64-64-true-true-false-false-false-33-0-false-1.png",
+      "https://gitlab.com/TrebleInfo/TrebleInfo/-/raw/dev/fastlane/metadata/android/en-US/images/phoneScreenshots/true-64-64-false-true-false-false-false-28-0-false-2.png",
+      "https://gitlab.com/TrebleInfo/TrebleInfo/-/raw/dev/fastlane/metadata/android/en-US/images/phoneScreenshots/true-64-64-false-true-false-false-false-28-0-true-3.png"
+    ],
+    "releaseKeyword": "apk"
+  },
+  {
+    "id": "ironfox",
+    "name": "IronFox",
+    "description": "IronFox is a fork of Divested Computing Group's Mull Browser, based on Mozilla Firefox. It is a free and open-source, privacy and security-oriented web browser for daily use. It removes all tracking/telemetry, hardens security defaults, deblobs proprietary bits, and supports microG/UnifiedPush.",
+    "icon": "https://gitlab.com/ironfox-oss/IronFox/-/raw/dev/assets/ironfox.png",
+    "version": "Latest",
+    "latestVersion": "Latest",
+    "downloadUrl": "#",
+    "repoUrl": "https://gitlab.com/ironfox-oss/IronFox",
+    "githubRepo": "",
+    "gitlabRepo": "ironfox-oss/IronFox",
+    "gitlabDomain": "gitlab.com",
+    "packageName": "org.ironfoxoss.ironfox",
+    "category": "Utility",
+    "platform": "Android",
+    "size": "Varies",
+    "author": "ironfox-oss",
+    "officialSite": "",
+    "screenshots": [
+      "https://image2url.com/r2/default/images/1772016883158-94ed29f4-1cb8-4a5b-b0a0-73bceb1012d5.jpg",
+      "https://image2url.com/r2/default/images/1772016912972-2fbf6bac-13a6-4892-8af1-cf0ff85413b8.jpg",
+      "https://image2url.com/r2/default/images/1772016937873-145f5a52-f47b-4824-8067-c506f027de99.jpg"
+    ],
+    "releaseKeyword": "apk"
+  },
+  {
+    "id": "habitbee",
+    "name": "HabitBee",
+    "description": "A beautiful offline-first habit tracker built with Flutter, featuring Material 3 Expressive UI, daily reminders, progress analytics with charts, and dark mode support. Data stays private with local Hive storage.",
+    "icon": "https://raw.githubusercontent.com/Mssheliya/HabitBee/main/docs%2Fimages%2FHabitBee%20app%20icon.png",
+    "version": "Latest",
+    "latestVersion": "Latest",
+    "downloadUrl": "#",
+    "repoUrl": "https://github.com/Mssheliya/HabitBee",
+    "githubRepo": "Mssheliya/HabitBee",
+    "gitlabRepo": "",
+    "gitlabDomain": "",
+    "packageName": "com.habitbee.habit_bee",
+    "category": "Utility",
+    "platform": "Android",
+    "size": "Varies",
+    "author": "Mssheliya",
+    "officialSite": "",
+    "screenshots": [
+      "https://raw.githubusercontent.com/Mssheliya/HabitBee/main/docs%2Fimages%2Fscreenshot1.jpg",
+      "https://raw.githubusercontent.com/Mssheliya/HabitBee/main/docs%2Fimages%2Fscreenshot2.jpg",
+      "https://raw.githubusercontent.com/Mssheliya/HabitBee/main/docs%2Fimages%2Fscreenshot3.jpg",
+      "https://raw.githubusercontent.com/Mssheliya/HabitBee/main/docs%2Fimages%2Fscreenshot4.jpg",
+      "https://raw.githubusercontent.com/Mssheliya/HabitBee/main/docs%2Fimages%2Fscreenshot5.jpg"
+    ],
+    "releaseKeyword": "apk"
+  },
+  {
+    "id": "freetube",
+    "name": "FreeTube",
+    "description": "A soft fork of FreeTube which brings it to Android (formerly FreeTubeCordova)",
+    "icon": "https://apt.izzysoft.de/fdroid/repo/io.freetubeapp.freetube/en-US/icon.png",
+    "version": "Latest",
+    "latestVersion": "Latest",
+    "downloadUrl": "#",
+    "repoUrl": "https://github.com/MarmadileManteater/FreeTubeAndroid",
+    "githubRepo": "MarmadileManteater/FreeTubeAndroid",
+    "gitlabRepo": "",
+    "gitlabDomain": "",
+    "packageName": "io.freetubeapp.freetube",
+    "category": "Utility",
+    "platform": "Android",
+    "size": "Varies",
+    "author": "MarmadileManteater",
+    "officialSite": "",
+    "screenshots": [
+      "https://raw.githubusercontent.com/MarmadileManteater/FreeTubeAndroid/development/metadata/en-US/images/phoneScreenshots/1.png",
+      "https://raw.githubusercontent.com/MarmadileManteater/FreeTubeAndroid/development/metadata/en-US/images/phoneScreenshots/2.png",
+      "https://raw.githubusercontent.com/MarmadileManteater/FreeTubeAndroid/development/metadata/en-US/images/phoneScreenshots/3.png"
+    ],
+    "releaseKeyword": "apk"
+  },
+  {
+    "id": "file-navigator",
+    "name": "File Navigator",
+    "description": "The missing link between Android and a sorted file system.",
+    "icon": "https://raw.githubusercontent.com/w2sv/FileNavigator/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp",
+    "version": "Latest",
+    "latestVersion": "Latest",
+    "downloadUrl": "#",
+    "repoUrl": "https://github.com/w2sv/FileNavigator",
+    "githubRepo": "w2sv/FileNavigator",
+    "gitlabRepo": "",
+    "gitlabDomain": "",
+    "packageName": "com.w2sv.filenavigator",
+    "category": "Utility",
+    "platform": "Android",
+    "size": "Varies",
+    "author": "w2sv",
+    "officialSite": "",
+    "screenshots": [
+      "https://raw.githubusercontent.com/w2sv/FileNavigator/main/app/src/main/play/listings/en-US/graphics/phone-screenshots/1.jpg",
+      "https://raw.githubusercontent.com/w2sv/FileNavigator/main/app/src/main/play/listings/en-US/graphics/phone-screenshots/2.jpg",
+      "https://raw.githubusercontent.com/w2sv/FileNavigator/main/app/src/main/play/listings/en-US/graphics/phone-screenshots/3.jpg"
+    ],
+    "releaseKeyword": "apk"
+  },
+  {
+    "id": "fluxtube",
+    "name": "FluxTube",
+    "description": "A powerful and ad-free YouTube client built using Flutter. Watch YouTube videos without ads, subscribe to channels, retrieve video dislikes, read comments, save videos, and much more.",
+    "icon": "https://apt.izzysoft.de/fdroid/repo/com.fazilvk.fluxtube/en-US/icon.png",
+    "version": "Latest",
+    "latestVersion": "Latest",
+    "downloadUrl": "#",
+    "repoUrl": "https://github.com/mu-fazil-vk/FluxTube",
+    "githubRepo": "mu-fazil-vk/FluxTube",
+    "gitlabRepo": "",
+    "gitlabDomain": "",
+    "packageName": "com.fazilvk.fluxtube",
+    "category": "Utility",
+    "platform": "Android",
+    "size": "Varies",
+    "author": "mu-fazil-vk",
+    "officialSite": "",
+    "screenshots": [
+      "https://raw.githubusercontent.com/mu-fazil-vk/FluxTube/main/doc/home.png",
+      "https://raw.githubusercontent.com/mu-fazil-vk/FluxTube/main/doc/watch.png",
+      "https://raw.githubusercontent.com/mu-fazil-vk/FluxTube/main/doc/trending.png",
+      "https://raw.githubusercontent.com/mu-fazil-vk/FluxTube/main/doc/settings.png"
+    ],
+    "releaseKeyword": "apk"
+  },
+  {
+    "id": " sigma-file-manager",
+    "name": " Sigma File Manager",
+    "description": "Sigma File Manager is a free, open-source, quickly evolving, with a modern UI and customisable file manager (explorer/finder) app for Windows.",
+    "icon": "https://raw.githubusercontent.com/aleksey-hoffman/sigma-file-manager/main/.github/media/logo-1024x1024.png",
+    "version": "Latest",
+    "latestVersion": "Latest",
+    "downloadUrl": "https://github.com/aleksey-hoffman/sigma-file-manager",
+    "repoUrl": "",
+    "githubRepo": "",
+    "gitlabRepo": "",
+    "gitlabDomain": "",
+    "packageName": "",
+    "category": "Utility",
+    "platform": "PC",
+    "size": "Varies",
+    "author": "aleksey-hoffman",
+    "officialSite": "https://github.com/aleksey-hoffman/sigma-file-manager",
+    "screenshots": [
+      "https://raw.githubusercontent.com/Shadyteal2/image-hosting/main/assets/sigma (1)-1.webp",
+      "https://raw.githubusercontent.com/Shadyteal2/image-hosting/main/assets/sigma (2)-1.webp",
+      "https://raw.githubusercontent.com/Shadyteal2/image-hosting/main/assets/sigma (3)-1.webp",
+      "https://raw.githubusercontent.com/Shadyteal2/image-hosting/main/assets/sigma (4)-1.webp"
+    ],
+    "releaseKeyword": "apk"
+  },
+  {
+    "id": "bitchat",
+    "name": "Bitchat",
+    "description": "A secure, decentralized, peer-to-peer messaging app that works over Bluetooth mesh networks.",
+    "icon": "https://play-lh.googleusercontent.com/t0RogNu6c7jBO1ZB1kazNueWC4RCwh1RzFwncNOcbCywFuu7yjcGOxNDBYS-DQE2KQVVBv_NjN3l_3MU5eqP",
+    "version": "Latest",
+    "latestVersion": "Latest",
+    "downloadUrl": "#",
+    "repoUrl": "https://github.com/permissionlesstech/bitchat-android",
+    "githubRepo": "permissionlesstech/bitchat-android",
+    "gitlabRepo": "",
+    "gitlabDomain": "",
+    "packageName": "com.bitchat.droid",
+    "category": "Utility",
+    "platform": "Android",
+    "size": "Varies",
+    "author": "permissionlesstech",
+    "officialSite": "",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/AIbJSDkz0xAierAqVtQW5dfa9dLQjg3u0TW2xKXvKlAYcJFxrHqRMZKCpRvK6E4MJS_VNEGiQPdo_qTVGdGmuhU=w5120-h2880-rw",
+      "https://play-lh.googleusercontent.com/Wjb2TBnkYL0vP2Dz6KKnPbBzZv5cyEGE9c7ZUHOQysfGSlRMjpjV9hgR4ETvvHJlFnn9Pav6s9C2lk3SZRUC2Q=w5120-h2880-rw",
+      "https://play-lh.googleusercontent.com/Wjb2TBnkYL0vP2Dz6KKnPbBzZv5cyEGE9c7ZUHOQysfGSlRMjpjV9hgR4ETvvHJlFnn9Pav6s9C2lk3SZRUC2Q=w5120-h2880-rw"
+    ],
+    "releaseKeyword": "apk"
+  }, 
   {
   "id": "cricfy",
   "name": "CricFY",
@@ -13387,5 +13567,33 @@
     "https://play-lh.googleusercontent.com/TGQKIsuRHuGDXy1ZK21TNTjXi-AY7Kw4KC4MCboCYWfxNFgEk3um7WU4KGjeowGZLA=w526-h296"
   ],
   "releaseKeyword": "apk"
-}
-]
+ },
+ {
+   "id": "v2rayng",
+    "name": "v2rayNG",
+    "description": "A V2Ray client for Android, supports Xray core and v2fly core",
+    "icon": "https://en.v2rayng.org/wp-content/uploads/2023/12/1703901981-v2rayNG-icon-300x300.png",
+    "version": "Latest",
+    "latestVersion": "Latest",
+    "downloadUrl": "#",
+    "repoUrl": "https://github.com/2dust/v2rayNG",
+    "githubRepo": "2dust/v2rayNG",
+    "gitlabRepo": "",
+    "gitlabDomain": "",
+    "packageName": "com.v2ray.ang",
+    "category": "Utility",
+    "platform": "Android",
+    "size": "Varies",
+    "author": "2dust",
+    "officialSite": "",
+    "screenshots": [
+      "https://en.v2rayng.org/wp-content/uploads/2025/10/1761726825-v2rayNG-Interface-scaled.jpg",
+      "https://en.v2rayng.org/wp-content/uploads/2025/10/1761726814-v2rayNG-Import-scaled.jpg",
+      "https://en.v2rayng.org/wp-content/uploads/2025/10/1761726798-v2rayNG-Test-scaled.jpg",
+      "https://en.v2rayng.org/wp-content/uploads/2025/10/1761726836-v2rayNG-Manage-scaled.jpg",
+      "https://en.v2rayng.org/wp-content/uploads/2025/10/1761726848-v2rayNG-Routing-scaled.jpg",
+      "https://en.v2rayng.org/wp-content/uploads/2025/10/1761726859-v2rayNG-Settings-scaled.jpg"
+    ],
+    "releaseKeyword": "apk"
+  }
+ ]
