@@ -1,1 +1,10 @@
-
+{
+  "version": "1.10.11",
+  "date": "current", 
+  "title": "Performance & Interface Update",
+  "changes": [
+    "Updated UI",
+    "Fixed some bugs"
+  ],
+  "download_url": "https://github.com/ifyoucanfindme973-netizen/sorwe-store-data/releases/download/notStableyet1/Sorwe.Store.apk"
+}
