@@ -1,9 +1,10 @@
 {
-  "version": "1.10.99",
-  "date": "2026-03-15",
-  "title": "Test Update",
+  "version": "1.10.11",
+  "date": "current", 
+  "title": "Performance & Interface Update",
   "changes": [
-    "Testing update system"
+    "Updated UI",
+    "Fixed some bugs"
   ],
   "download_url": "https://github.com/ifyoucanfindme973-netizen/sorwe-store-data/releases/download/notStableyet1/Sorwe.Store.apk"
 }
