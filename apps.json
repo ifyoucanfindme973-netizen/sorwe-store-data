@@ -14376,7 +14376,7 @@
     "id": "sarthak-app",
     "name": "Sarthak",
     "description": "Custom app experience with useful features and a clean interface.",
-    "icon": "https://play-lh.googleusercontent.com/-rQFyM4BU9jfNejj6O1s595Ea1lPGW2jeMY1KVH4dzrb_Ouc1vLAONcxPAds",
+    "icon": "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/icons/Screenshot_20260226_133653.jpg",
     "version": "Latest",
     "latestVersion": "Latest",
     "downloadUrl": "https://example.com",
@@ -14388,10 +14388,8 @@
     "size": "Varies",
     "author": "Sarthak",
     "screenshots": [
-      "https://play-lh.googleusercontent.com/26xWqoi-Qfpnvqq8UbGG2-siCFCI0MBpydsCg9TC9EUi-sn8cjx28958j9-IMHWLd7IY=w526-h296",
-      "https://play-lh.googleusercontent.com/Oy5tqSk1y-G6jbsNYBUckIAgS6fdV-2BICJEGMICWduhwBx-05tWd-T9uGuYT61buRk=w526-h296",
-      "https://play-lh.googleusercontent.com/qOxkcLbOadPDHnfv4jpa-HTqnjAM9CCPVxMBM_EdmJXilK-qX7CH08p4nzNOStwaitk=w526-h296",
-      "https://play-lh.googleusercontent.com/TGQKIsuRHuGDXy1ZK21TNTjXi-AY7Kw4KC4MCboCYWfxNFgEk3um7WU4KGjeowGZLA=w526-h296"
+      "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/Screenshot_20260226_132956.jpg",
+      "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/Screenshot_20260226_133043.jpg"
     ],
     "releaseKeyword": "apk"
   }
