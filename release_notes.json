@@ -1,7 +1,7 @@
 {
-  "version": "1.10.13",
+  "version": "1.10.14",
   "date": "2026-03-20",
-  "title": "Performance & Stability Update",
+  "title": "UI & Stability Update",
   "changes": [
     "Fixed multiple bugs and improved overall stability",
     "Reduced app startup time by up to 40%",
@@ -11,5 +11,5 @@
     "Added improved error handling and crash prevention",
     "Enhanced user interface for a better experience"
   ],
-  "download_url": "https://github.com/ifyoucanfindme973-netizen/sorwe-store-data/releases/download/notStableyet1/SorweStore.V1.10.13.apk"
+  "download_url": "https://github.com/ifyoucanfindme973-netizen/sorwe-store-data/releases/download/notStableyet1/SorweStore.V1.10.14.apk"
 }
