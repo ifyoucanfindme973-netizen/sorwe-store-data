@@ -3,13 +3,11 @@
   "date": "2026-03-20",
   "title": "UI & Stability Update",
   "changes": [
-    "Fixed multiple bugs and improved overall stability",
-    "Reduced app startup time by up to 40%",
-    "Added support for ARMv7, ARMv8, and 64-bit architectures",
-    "Improved download speed and performance",
-    "Introduced several new features and enhancements",
-    "Added improved error handling and crash prevention",
-    "Enhanced user interface for a better experience"
+    "⚡ Shizuku Reliability Overhaul: Fixed silent installation failures using ParcelFileDescriptor (PFD) streaming bridge for 100% reliable installs across Android versions",
+    "💎 Premium Setup Onboarding: New all-in-one setup screen with permissions, biometric vault setup, and OEM-specific restricted settings guidance",
+    "🚀 Zero-Lag One-Click Experience: Instant silent install after download completion and real-time UI updates without delay",
+    "📈 Precise Usage Insights: Improved analytics with accurate midnight alignment and expanded daily/monthly tracking",
+    "✅ Final Build Verification: Stable build confirmed, secure onboarding flow, and smooth high-refresh-rate (120Hz) animations"
   ],
-  "download_url": "https://github.com/ifyoucanfindme973-netizen/sorwe-store-data/releases/download/notStableyet1/SorweStore.V1.10.14.apk"
+  "download_url": "https://github.com/ifyoucanfindme973-netizen/sorwe-store-data/releases/download/notStableyet1/MOD.Store.V1.10.15.apk"
 }
