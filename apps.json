@@ -14306,6 +14306,93 @@
     ],
     "releaseKeyword": "apk"
   },
+    {
+    "id": "cricfy",
+    "name": "CricFY",
+    "description": "CricFY is a free live streaming application designed for cricket fans and sports lovers. It provides access to live cricket matches, international tournaments, T20 leagues, and other major sporting events in high-quality streaming.",
+    "icon": "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/icons/CRICFy%20TV.png",
+    "version": "6.0",
+    "latestVersion": "6.0",
+    "downloadUrl": "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/DtaaApka/CRICFy_v6.0.apk",
+    "repoUrl": "",
+    "githubRepo": "",
+    "packageName": "",
+    "category": "Sports",
+    "platform": "Android",
+    "size": "",
+    "author": "",
+    "screenshots": [
+      "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/CRICFY%20TV/Screenshot_20260216_131451.jpg",
+      "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/CRICFY%20TV/Screenshot_20260216_131455.jpg",
+      "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/CRICFY%20TV/Screenshot_20260216_131459.jpg",
+      "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/CRICFY%20TV/Screenshot_20260216_131505.jpg"
+    ],
+    "releaseKeyword": "apk"
+  },
+  {
+    "id": "microg",
+    "name": "MicroG",
+    "description": "MicroG is a lightweight open-source implementation of Google Play Services that allows apps requiring Google services to run without the official framework.",
+    "icon": "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/icons/MicroG.jpg",
+    "version": "0.3.1.4",
+    "latestVersion": "0.3.1.4",
+    "downloadUrl": "https://github.com/vancedto/vanced.to/releases/download/2026-7/vanced.to_vanced_gms_microg_v0.3.1.4.240913.apk",
+    "repoUrl": "",
+    "githubRepo": "",
+    "packageName": "",
+    "category": "Tools",
+    "platform": "Android",
+    "size": "",
+    "author": "",
+    "screenshots": [
+      "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/MicroG/Screenshot_20260215_195959.jpg",
+      "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/MicroG/Screenshot_20260215_200003.jpg",
+      "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/MicroG/Screenshot_20260215_200108.jpg"
+    ],
+    "releaseKeyword": "apk"
+  },
+  {
+    "id": "remini-pro",
+    "name": "Remini Pro",
+    "description": "Remini Pro is an AI-powered photo enhancement app that restores and enhances low-quality images into high-definition results.",
+    "icon": "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/icons/Remini.jpg",
+    "version": "3.7.1291",
+    "latestVersion": "3.7.1291",
+    "downloadUrl": "https://file.yuhvi.com/remini-premium_v3.7.1291.202519959-an1.ca.apk",
+    "repoUrl": "",
+    "githubRepo": "",
+    "packageName": "",
+    "category": "Photography",
+    "platform": "Android",
+    "size": "",
+    "author": "",
+    "screenshots": [
+      "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/Remini/Screenshot.jpg",
+      "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/Remini/Screenshot_20260216_091545.jpg"
+    ],
+    "releaseKeyword": "apk"
+  },
+  {
+    "id": "sarthak-app",
+    "name": "Sarthak",
+    "description": "Custom app experience with useful features and a clean interface.",
+    "icon": "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/icons/Screenshot_20260226_133653.jpg",
+    "version": "Latest",
+    "latestVersion": "Latest",
+    "downloadUrl": "https://example.com",
+    "repoUrl": "",
+    "githubRepo": "",
+    "packageName": "com.sarthak.app",
+    "category": "Tools",
+    "platform": "Android",
+    "size": "Varies",
+    "author": "Sarthak",
+    "screenshots": [
+      "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/Screenshot_20260226_132956.jpg",
+      "https://raw.githubusercontent.com/ifyoucanfindme973-netizen/sorwe-store-data/refs/heads/main/screenshots/Screenshot_20260226_133043.jpg"
+    ],
+    "releaseKeyword": "apk"
+  },
   {
     "id": "ichan",
     "name": "iChan",
