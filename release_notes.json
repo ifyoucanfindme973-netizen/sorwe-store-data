@@ -1,13 +1,16 @@
 {
-  "version": "1.10.15",
+  "version": "2.01.01",
   "date": "2026-03-20",
-  "title": "UI & Stability Update",
+  "title": "UI & Privacy",
   "changes": [
-    "⚡ Shizuku Reliability Overhaul: Fixed silent installation failures using ParcelFileDescriptor (PFD) streaming bridge for 100% reliable installs across Android versions",
-    "💎 Premium Setup Onboarding: New all-in-one setup screen with permissions, biometric vault setup, and OEM-specific restricted settings guidance",
-    "🚀 Zero-Lag One-Click Experience: Instant silent install after download completion and real-time UI updates without delay",
-    "📈 Precise Usage Insights: Improved analytics with accurate midnight alignment and expanded daily/monthly tracking",
-    "✅ Final Build Verification: Stable build confirmed, secure onboarding flow, and smooth high-refresh-rate (120Hz) animations"
+    "🐞 Revamped Bug Reporting: Introduced a dedicated, fully themed bug report screen replacing the basic email flow",
+    "🛠️ Guided Issue Submission: Added structured instructions prompting users to attach screenshots or screen recordings for faster diagnosis",
+    "📩 Reliable Support Channel: Optimized the send action to consistently route reports to modstoredeveloperteam@outlook.com using robust Android intents",
+    "🔢 Version Upgrade: Updated app version to v2.01.01 across all info panels and report metadata",
+    "🌙 Premium Dark Experience: Finalized permanent dark mode with a refined, consistent UI and removal of theme switching",
+    "🎨 Icon Enhancement: Preserved and secured the signature Crimson Red & Black premium app icon",
+    "🔐 Seamless Permissions Flow: Integrated required storage permissions directly into onboarding for a smooth first-time setup",
+    "🧬 Biometric Security Verified: Ensured stability and reliability of the biometric vault protection system"
   ],
-  "download_url": "https://github.com/ifyoucanfindme973-netizen/sorwe-store-data/releases/download/notStableyet1/MOD.Store.V1.10.15.apk"
+  "download_url": "https://github.com/ifyoucanfindme973-netizen/sorwe-store-data/releases/download/notStableyet1/MOD.Store.V.2.01.01.apk"
 }
