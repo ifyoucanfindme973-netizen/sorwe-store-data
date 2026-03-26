@@ -1,5 +1,5 @@
 {
-  "version": "1.10.15",
+  "version": "1.10.16",
   "date": "2026-03-20",
   "title": "UI & Privacy",
   "changes": [
@@ -12,5 +12,5 @@
     "🔐 Seamless Permissions Flow: Integrated required storage permissions directly into onboarding for a smooth first-time setup",
     "🧬 Biometric Security Verified: Ensured stability and reliability of the biometric vault protection system"
   ],
-  "download_url": "https://github.com/ifyoucanfindme973-netizen/sorwe-store-data/releases/download/notStableyet1/MOD.Store.V.1.10.17.apk"
+  "download_url": "https://github.com/ifyoucanfindme973-netizen/sorwe-store-data/releases/download/notStableyet1/MOD.Store.V1.10.16.apk"
 }
